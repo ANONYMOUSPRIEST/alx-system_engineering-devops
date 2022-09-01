@@ -1,1 +1,1 @@
-Create a scrip
+Write a command that lists
