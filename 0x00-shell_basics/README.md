@@ -1,1 +1,1 @@
-Create a script that copies
+Create a script
