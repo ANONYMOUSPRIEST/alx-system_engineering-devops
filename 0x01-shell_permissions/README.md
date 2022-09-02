@@ -1,1 +1,1 @@
-Write a scrip
+Write a script
